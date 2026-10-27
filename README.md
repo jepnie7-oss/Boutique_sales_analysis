@@ -32,3 +32,9 @@ This project uses a small sample dataset. The results are illustrative and may n
 Conclusion
 
 This project demonstrates how data analysis tools can turn sales records into useful business insights.
+
+Sales Chart
+
+The pie chart below visualizes the distribution of product sales in my boutique sales analysis project.
+
+"Boutique Sales Pie Chart" (Screenshot_20261027-150853.jpg)
