@@ -35,6 +35,5 @@ This project demonstrates how data analysis tools can turn sales records into us
 
 Sales Chart
 
-The pie chart below visualizes the distribution of product sales in my boutique sales analysis project.
-
-![Boutique Sales Pie Chart](Screenshot_20261027-150853.jpg)
+The pie chart below visualizes the distribution of product sales in my boutique sales analysis projects.
+![Boutique Sales Pie Chart](images/Screenshot_20261027-150853.jpg)
