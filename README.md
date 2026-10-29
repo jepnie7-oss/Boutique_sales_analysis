@@ -37,3 +37,15 @@ Sales Chart
 
 The pie chart below visualizes the distribution of product sales in my boutique sales analysis projects.
 ![Boutique Sales Pie Chart](images/Screenshot_20261027-150853.jpg)
+
+Profit Dashboard
+
+This dashboard compares sales, calculated profit, and profit margin across bags, dresses, and shoes. It highlights differences in product performance and supports evidence-based business decisions.
+
+Key findings from the practice data:
+
+- Bags recorded the highest total profit.
+- Dresses recorded the highest profit margin.
+- Further checks on costs, sales records, and customer demand are needed before making final business recommendations.
+
+Note: The profit figures used in this exercise are illustrative practice data, not verified business results.
