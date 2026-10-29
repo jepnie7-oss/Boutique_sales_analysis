@@ -33,10 +33,21 @@ Conclusion
 
 This project demonstrates how data analysis tools can turn sales records into useful business insights.
 
-Sales Chart
 
 The pie chart below visualizes the distribution of product sales in my boutique sales analysis projects.
 ![Boutique Sales Pie Chart](images/Screenshot_20261027-150853.jpg)
+
+Project Objective
+
+The objective of this project is to analyze boutique sales data, compare product performance, and identify insights that can support better business decisions.
+
+Skills Demonstrated
+
+- Data organization and cleaning
+- Sales calculations and product comparisons
+- Profit and profit-margin analysis using practice data
+- Data visualization
+- Business insights and recommendations
 
 Profit Dashboard
 
