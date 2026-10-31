@@ -34,3 +34,6 @@ The analysis covers only five days. More data is needed to establish long-term s
 Skills Demonstrated
 
 Data analysis, spreadsheet formulas, percentage calculations, performance monitoring, visualization, and business reporting.
+## Daily Sales Chart
+
+![Daily Sales Chart](Screenshot_20261031-110049.jpg)
