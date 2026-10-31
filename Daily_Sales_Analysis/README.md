@@ -37,3 +37,9 @@ Data analysis, spreadsheet formulas, percentage calculations, performance monito
 ## Daily Sales Chart
 
 ![Daily Sales Chart](Screenshot_20261031-110049.jpg)
+
+## Dataset
+
+The original five-day boutique sales dataset is available here:
+
+[Download Daily Sales Dataset](daily_sales_data.csv)
