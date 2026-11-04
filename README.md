@@ -60,3 +60,19 @@ Key findings from the practice data:
 - Further checks on costs, sales records, and customer demand are needed before making final business recommendations.
 
 Note: The profit figures used in this exercise are illustrative practice data, not verified business results.
+## Data Quality Assessment
+
+### Project Overview
+Conducted a data quality assessment on boutique sales records to identify missing values, potential duplicates, and inconsistencies.
+
+### Key Findings
+- Reviewed 4 original records.
+- 3 records passed the quantity and sales validity checks and were included in the cleaned dataset.
+- 1 record remains excluded pending duplicate verification.
+- Achieved a 75% inclusion rate.
+
+### Data Quality Limitations
+The dataset lacked transaction IDs and dates, making it impossible to confirm whether identical Bags records represented duplicate transactions.
+
+### Business Recommendation
+Verify the excluded Bags record against original sales receipts before including it in the final analysis.
