@@ -1,69 +1,72 @@
-Boutique Inventory Analysis
+BOUTIQUE INVENTORY ANALYSIS
 
-Project Overview
+PROJECT OVERVIEW
 
-This project analyzes boutique inventory to understand stock levels, identify products that need restocking, and support better inventory management decisions.
+This project focuses on analyzing boutique inventory to monitor stock levels, identify products requiring restocking, and support informed business decisions.
 
-Project Objectives
+---
+
+1. PROJECT OBJECTIVES
 
 - Calculate closing stock for each product.
 - Compare available stock against reorder levels.
-- Identify products that need restocking.
-- Support better purchasing and stock management decisions.
+- Identify products that require restocking.
+- Improve inventory monitoring and purchasing decisions.
 
-Tools Used
+2. TOOLS USED
 
-- Google Sheets: Data entry, calculations, analysis, and dashboard creation.
+- Google Sheets: Data entry, calculations, inventory analysis, and dashboard creation.
 - GitHub: Project storage and portfolio presentation.
 
-Inventory Analysis
+3. INVENTORY ANALYSIS
 
-The analysis covered three products: Bags, Dresses, and Shoes.
-
-Product| Opening Stock| Units Sold| Closing Stock| Reorder Level| Stock Status
+Product| Opening Stock| Units Sold| Closing Stock| Reorder Level| Status
 Bags| 50| 35| 15| 20| REORDER
 Dresses| 40| 32| 8| 10| REORDER
 Shoes| 30| 12| 18| 15| SUFFICIENT
 
-Key Findings
+4. KEY FINDINGS
 
-- Bags had 15 units remaining, which was 5 units below the reorder level.
-- Dresses had 8 units remaining, which was 2 units below the reorder level.
-- Shoes had 18 units remaining, which was 3 units above the reorder level.
-- Two out of the three products required restocking.
+- Bags: 15 units remaining, 5 below the reorder level.
+- Dresses: 8 units remaining, 2 below the reorder level.
+- Shoes: 18 units remaining, 3 above the reorder level.
+- Overall: 2 products require restocking out of 3 analyzed.
 
-Dashboard Summary
+5. DASHBOARD SUMMARY
 
 - Total Products: 3
 - Products Requiring Reorder: 2
 - Products with Sufficient Stock: 1
 
-Business Recommendations
+6. BUSINESS RECOMMENDATIONS
 
-- Prioritize restocking Bags because they have the largest stock shortage.
-- Restock Dresses to prevent possible stock shortages.
-- Continue monitoring Shoes because their current stock is above the reorder level.
-- Review stock levels regularly to support timely purchasing decisions.
+1. Prioritize restocking Bags because they have the largest stock shortage.
+2. Restock Dresses to prevent possible stock shortages.
+3. Continue monitoring Shoes because their stock is currently sufficient.
+4. Review inventory regularly to support timely purchasing decisions.
 
-Skills Demonstrated
+7. SKILLS DEMONSTRATED
 
 - Data entry and organization
-- Spreadsheet calculations
+- Spreadsheet formulas and calculations
 - Inventory analysis
 - Data interpretation
 - Business reporting
 - Dashboard creation
 - GitHub portfolio management
 
-Project Screenshot
+---
 
-## Project Screenshot 
-! [ Boutique Inventory Analysis ]
-Screenshot_20261104-161423.jpg
+8. PROJECT SCREENSHOT
 
-"Boutique Inventory Analysis" (Screenshot_20261104-161423.jpg)
+Screenshot File: "Screenshot_20261104-161423.jpg"
 
-Conclusion
+"Boutique Inventory Analysis" (./Screenshot_20261104-161423.jpg)
 
-This project demonstrates how data analysis can help a boutique monitor inventory, identify restocking needs, and make informed purchasing decisions.
+---
 
+9. CONCLUSION
+
+This project demonstrates how data analysis can help a boutique monitor inventory, identify restocking needs, and make better purchasing decisions.
+
+Project completed using Google Sheets and GitHub.
