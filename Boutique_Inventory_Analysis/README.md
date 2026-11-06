@@ -66,3 +66,4 @@ Screenshot_20261104-161423.jpg
 Conclusion
 
 This project demonstrates how data analysis can help a boutique monitor inventory, identify restocking needs, and make informed purchasing decisions.
+
