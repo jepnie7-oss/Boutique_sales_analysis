@@ -76,3 +76,26 @@ The dataset lacked transaction IDs and dates, making it impossible to confirm wh
 
 ### Business Recommendation
 Verify the excluded Bags record against original sales receipts before including it in the final analysis.
+## My Data Analysis Projects
+
+### 1. Boutique Sales Analysis
+Analyzed boutique sales data using Python, Pandas, SQL and Google Sheets to identify sales trends and business insights.
+
+### 2. Product Profitability Analysis
+Analyzed product revenue, costs, gross profit and profit margins to understand product performance.
+
+### 3. Boutique Inventory Analysis
+Analyzed stock levels, identified products requiring reordering and developed inventory recommendations.
+
+## Skills Demonstrated
+
+- Data cleaning and analysis
+- Python and SQL
+- Google Sheets
+- Data visualization
+- Dashboard creation
+- Business reporting and recommendations
+
+## Career Objective
+
+Aspiring Data Analyst interested in helping businesses make informed decisions through data analysis and visualization.
