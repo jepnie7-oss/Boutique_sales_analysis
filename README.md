@@ -2,7 +2,7 @@
 Boutique sales analysis using Python, Pandas, SQL and google sheets
 
 
-Tools Used
+# Tools Used
 
 - Python
 - Pandas
@@ -10,7 +10,7 @@ Tools Used
 - Google Colab
 - Google Sheets
 
-Key Findings
+# Key Findings
 
 - Total revenue: KSh 29,000
 - Total cost: KSh 15,900
@@ -19,17 +19,17 @@ Key Findings
 - Dresses generated the highest revenue and gross profit.
 - Bags had the highest gross profit margin at approximately 53.33%.
 
-Business Recommendations
+# Business Recommendations
 
 - Monitor demand for dresses because they generated the highest revenue and gross profit in this sample.
 - Review bags pricing and costs because bags had the highest gross profit margin.
 - Track sales and costs regularly to support better business decisions.
 
-Limitations
+# Limitations
 
 This project uses a small sample dataset. The results are illustrative and may not represent the performance of a real boutique. Gross profit does not include operating expenses.
 
-Conclusion
+# Conclusion
 
 This project demonstrates how data analysis tools can turn sales records into useful business insights.
 
@@ -41,7 +41,7 @@ Project Objective
 
 The objective of this project is to analyze boutique sales data, compare product performance, and identify insights that can support better business decisions.
 
-Skills Demonstrated
+# Skills Demonstrated
 
 - Data organization and cleaning
 - Sales calculations and product comparisons
@@ -49,7 +49,7 @@ Skills Demonstrated
 - Data visualization
 - Business insights and recommendations
 
-Profit Dashboard
+# Profit Dashboard
 
 This dashboard compares sales, calculated profit, and profit margin across bags, dresses, and shoes. It highlights differences in product performance and supports evidence-based business decisions.
 
